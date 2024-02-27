@@ -136,7 +136,7 @@ const BodyModalGetProduk = ({
                   } else {
                     // stok barang yang dipilih akan berkurang
                     AlertMessage(
-                      "Transaksi Berhasil",
+                      "Transaksi Berhasil ",
                       300,
                       "success"
                     );
